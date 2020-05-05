@@ -1,3 +1,10 @@
+# Untracked Directories #
+#########################
+.vscode
+figures
+ss_data_analysis.egg-info
+tests
+
 # Compiled source #
 ###################
 *.com
